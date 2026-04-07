@@ -20,7 +20,7 @@ BRANCH = "main"
 
 # ── AUTHORIZED USERS (starts with these, can be modified with commands) ──
 AUTHORIZED_USERS = {
-    8734578,   # ← CHANGE THESE TO YOUR REAL DISCORD IDs
+    976981112100384778,   # ← CHANGE THESE TO YOUR REAL DISCORD IDs
     983834,
     # Add more here if you want initial users
 }
