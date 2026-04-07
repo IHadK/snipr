@@ -13,8 +13,8 @@ bot = commands.Bot(command_prefix="!", intents=intents)
 DISCORD_TOKEN = os.getenv("DISCORD_TOKEN")
 GITHUB_TOKEN = os.getenv("GITHUB_TOKEN")
 
-REPO_OWNER = "skibidieli6236"
-REPO_NAME = "qwfqwaf"
+REPO_OWNER = "IHadK"
+REPO_NAME = "snipr"
 FILE_PATH = "status.json"
 BRANCH = "main"
 
